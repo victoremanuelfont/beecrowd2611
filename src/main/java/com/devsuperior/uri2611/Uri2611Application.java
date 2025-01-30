@@ -24,7 +24,7 @@ public class Uri2611Application implements CommandLineRunner {
 	public void run(String... args) throws Exception {
 
 		List<MovieMinProjection> list = repository.search1("Action");
-		
+
 
 
 	}
